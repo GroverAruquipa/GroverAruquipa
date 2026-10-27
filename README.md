@@ -1,20 +1,58 @@
-<h1 align="center">Hi 👋, I'm Grover Aruquipa A.</h1>
-<h3 align="center">I am a mechatronic engineer, passionate about cyber-physical manufacturing systems, parallel robotics, data analysis, machine learning, FOREX and DASHBOARDS development</h3>
+<h1 align="center">Grover Aruquipa</h1>
+<p align="center"><b>Robotics researcher · parallel robots with unlimited rotation and integrated grasping</b></p>
+<p align="center">Ph.D. candidate in Mechanical Engineering, Université Laval (Québec, Canada) · Advised by Prof. Clément Gosselin and Prof. Patrice Lambert</p>
+<p align="center"><b>Available from early 2027 for Postdoctoral and Research Scientist positions · Open to relocation</b></p>
 
-- 🔭 I’m currently working on **Data science and manufacturing systems**
-
-- 🌱 I’m currently learning **Bio-inspired algorithms**
-
-- 👯 I’m looking to collaborate on **Dashboard development, Data science, research**
-
-- 📝 I regularly write articles on [IEEE XPLORE](IEEE XPLORE)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/grover-aruquipa-996917126/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/grover-aruquipa-996917126/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/grover.aruquipa.18/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/grover.aruquipa.18/" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://groveraruquipa.github.io">Website</a> ·
+  <a href="https://groveraruquipa.github.io/assets/CV_Grover_Aruquipa.pdf">CV (PDF)</a> ·
+  <a href="https://scholar.google.com/citations?user=mGNEwisAAAAJ&hl=en">Google Scholar</a> ·
+  <a href="https://orcid.org/0000-0003-0243-3187">ORCID</a> ·
+  <a href="https://www.linkedin.com/in/grover-aruquipa-996917126/">LinkedIn</a> ·
+  <a href="mailto:grover.aruquipa.9@gmail.com">grover.aruquipa.9@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
+I design robots whose capabilities come from the mechanism itself: kinematically redundant parallel robots in
+which grasping, unlimited rotation and redundancy are produced by the structure, with the motors fixed to the
+base. I take each idea from theory to hardware: type synthesis, kinematics, statics and singularity analysis;
+simulation and mechanical design; then fabrication and real-time multi-motor control of the prototype.
+
+- 6 peer-reviewed papers, first author on all (3 journal articles, 3 conference papers); 4 under review
+- 3 robot prototypes designed, built and controlled; 2 graduate students supervised
+- 1st place, ASME Student Mechanisms & Robotics Design Competition 2025; finalist, MassRobotics Form & Function Challenge 2026
+- Visiting researcher at the Institute of Robotics, JKU Linz (Mitacs Globalink Research Award, 2026)
+
+## Prototypes
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="https://groveraruquipa.github.io/media/img/wrist_gripper.jpg" alt="Coaxial parallel wrist-gripper" height="200"><br><b>Coaxial parallel wrist-gripper</b><br><sub>Unlimited tool rotation while holding the object · <a href="https://youtu.be/ryZh_uLE7yk">video</a></sub></td>
+    <td align="center" width="33%"><img src="https://groveraruquipa.github.io/media/img/prototype_coaxial.jpg" alt="Redundant parallel robot with coaxial actuation" height="200"><br><b>Redundant parallel robot with coaxial actuation</b><br><sub>MassRobotics finalist 2026</sub></td>
+    <td align="center" width="33%"><img src="https://groveraruquipa.github.io/images/prototypes/hybrid.jpg" alt="(6+1)-DoF parallel manipulator" height="200"><br><b>(6+1)-DoF parallel manipulator</b><br><sub>Unlimited rotation with an integrated gripper</sub></td>
+  </tr>
+</table>
+
+## Selected publications
+
+- **G. Aruquipa**, P. Lambert, R. Dahmouche, C. Gosselin. *Parallel robots for grasping tasks: a review.* ASME Journal of Mechanisms and Robotics, 2026. [doi:10.1115/1.4072612](https://doi.org/10.1115/1.4072612)
+- **G. Aruquipa**, V. Muralidharan, P. Lambert, C. Gosselin. *Analysis and design of a novel compact four-degree-of-freedom parallel robot with unlimited rotation.* ASME Journal of Mechanisms and Robotics, 2026. [doi:10.1115/1.4071420](https://doi.org/10.1115/1.4071420)
+- **G. Aruquipa**, P. Lambert, C. Gosselin. *Analysis and design of a novel (6+1)-DoF parallel robot with unlimited rotation and grasping capabilities.* Mechanism and Machine Theory, 2026. [link](https://www.sciencedirect.com/science/article/abs/pii/S0094114X26000881)
+- **G. Aruquipa**, P. Lambert, C. Gosselin. *Kinematic analysis and design of a novel 9-DoF parallel robot with grasping capabilities.* CCToMM Symposium, Springer, 2025. [doi:10.1007/978-3-031-95489-4_10](https://doi.org/10.1007/978-3-031-95489-4_10)
+
+Full list on the [website](https://groveraruquipa.github.io/#publications).
+
+## Public code
+
+- [**9dof-parallel-robot-ros2**](https://github.com/GroverAruquipa/9dof-parallel-robot-ros2): ROS 2 description, kinematics, control and simulation of the 9-DoF parallel robot with grasping capabilities (CCToMM 2025).
+- [Interactive tutorials](https://groveraruquipa.github.io/#teaching): screw theory, Jacobians, singularities and workspace of parallel robots, reinforcement learning for robot control.
+
+## Tools
+
+**Analysis:** screw theory, Lie groups, kinematics and statics, singularity and workspace analysis, design optimization ·
+**Simulation:** MuJoCo, Simscape Multibody, Pinocchio ·
+**Control and software:** real-time multi-motor control (OPAL-RT RT-LAB, Simulink Real-Time), C++, Python, MATLAB, ROS / ROS 2, PyTorch ·
+**Design and fabrication:** SolidWorks, machining, SLS and FDM printing
+
+**Languages:** Spanish (native), English (full professional), French (intermediate)
