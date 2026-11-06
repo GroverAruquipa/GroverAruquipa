@@ -29,7 +29,7 @@ simulation and mechanical design; then fabrication and real-time multi-motor con
 <table>
   <tr>
     <td align="center" width="33%"><img src="https://groveraruquipa.github.io/media/img/wrist_gripper.jpg" alt="Coaxial parallel wrist-gripper" height="200"><br><b>Coaxial parallel wrist-gripper</b><br><sub>Unlimited tool rotation while holding the object · <a href="https://youtu.be/ryZh_uLE7yk">video</a></sub></td>
-    <td align="center" width="33%"><img src="https://groveraruquipa.github.io/media/img/prototype_coaxial.jpg" alt="Redundant parallel robot with coaxial actuation" height="200"><br><b>Redundant parallel robot with coaxial actuation</b><br><sub>MassRobotics finalist 2026</sub></td>
+    <td align="center" width="33%"><img src="https://groveraruquipa.github.io/media/img/confidential_prototype.jpg" alt="Confidential prototype" height="200"><br><b>Kinematically redundant parallel robot</b><br><sub>Confidential until publication · MassRobotics finalist 2026</sub></td>
     <td align="center" width="33%"><img src="https://groveraruquipa.github.io/images/prototypes/hybrid.jpg" alt="(6+1)-DoF parallel manipulator" height="200"><br><b>(6+1)-DoF parallel manipulator</b><br><sub>Unlimited rotation with an integrated gripper</sub></td>
   </tr>
 </table>
